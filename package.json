@@ -1,7 +1,6 @@
 {
   "name": "mypp",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -10,5 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "web3": "^1.7.3"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
